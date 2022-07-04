@@ -12,7 +12,8 @@ img{
     height: 140px;
 }
 
-h1{
+h1 a{
+    text-decoration: none;
     color: #C84B31;
 }
 
